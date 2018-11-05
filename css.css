@@ -7,11 +7,20 @@ body {
 p{
 	color: white;
 	font-size: 15pt;
+	text-align: center;
 }
+
+p2{
+	color: white;
+	font-size: 30pt;
+	text-align: center;
+}
+
 font{
 	font-size: 30pt;
 	color:white;
 	text-decoration: underline;
+	text-align: center;
 }
 .header{
 	border-radius: 30px;
@@ -80,3 +89,8 @@ th{
 	font-size: 18pt;
 	border-radius: 30px;
 }
+ul{
+	color: white;
+	margin: 0;
+	margin-left: 40%;
+	}
