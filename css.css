@@ -4,17 +4,6 @@ body {
 	background-attachment: fixed;
 	background-size: 100% 100%;
 }
-p{
-	color: white;
-	font-size: 15pt;
-	text-align: center;
-}
-
-p2{
-	color: white;
-	font-size: 30pt;
-	text-align: center;
-}
 
 font{
 	font-size: 30pt;
@@ -31,7 +20,7 @@ font{
     height: 80px; 
 	text-align: center;
 	color: white;
-	text-shadow: 3px 3px 1px rgba(255,255,255,0.5);
+	text-shadow: 3px 3px 1px rgba(255,255,255,0.3);
 }
 .topnav  {
 	overflow: hidden;
@@ -61,36 +50,9 @@ font{
 	right: 10%;
 	bottom: 10%;
 }
-table
-{
-    border-collapse: collapse;
-	width:90%;
-	padding: 15px;
 
-}
-td{
-	vertical-align: bottom ;
-	text-align: center ;
-	padding: 15px;
-	font-size: 15pt;
-	color: white;
-	background-color: rgba(127,127,127,0.7);
-	border-radius: 15px;
-}
-tr:nth-child(even) {
-	background-color: rgba(0,0,0,0.7);
-	color: white;
-	}
-th{
-	background-color: rgb(104, 18, 18, 1);
-    color: white;
-	padding: 15px;
-	font-weight:bold;
-	font-size: 18pt;
-	border-radius: 30px;
-}
 ul{
 	color: white;
 	margin: 0;
-	margin-left: 40%;
+	margin-left: 35%;
 	}
